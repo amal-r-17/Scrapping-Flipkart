@@ -1,0 +1,358 @@
+,Name,ROM(GB),RAM(GB),Ratings,Price
+0,REDMI 9i (Midnight Black),64,4,4.3,8299
+1,realme C20 (Cool Grey),32,2,4.4,6799
+2,Infinix Hot 10 (Obsidian Black),64,4,4.4,8999
+3,Infinix Hot 10 (Ocean Wave),64,4,4.4,8999
+4,Infinix Hot 10 (Moonlight Jade),64,4,4.4,8999
+5,Infinix Hot 10 (Amber Red),64,4,4.4,8999
+6,realme C21 (Cross Black),64,4,4.4,8999
+7,realme C21 (Cross Blue),64,4,4.4,8999
+8,realme C21 (Cross Black),32,3,4.5,7999
+9,Infinix Smart 5 (7° Purple),32,2,4.4,7199
+10,Infinix Smart 5 (Morandi Green),32,2,4.4,7199
+11,Infinix Smart 5 (Obsidian Black),32,2,4.4,7199
+12,Infinix Smart 5 (Aegean Blue),32,2,4.4,7199
+13,POCO M3 (Power Black),64,6,4.3,10999
+14,realme Narzo 30A (Laser Black),64,4,4.4,9999
+15,realme Narzo 30A (Laser Black),32,3,4.4,8999
+16,realme Narzo 30A (Laser Blue),32,3,4.4,8999
+17,Infinix Hot 10 Play (7° Purple),64,4,4.3,8499
+18,GIONEE Max (Red),32,2,4.1,5499
+19,POCO M3 (Cool Blue),64,6,4.3,10999
+20,Infinix Hot 10 Play (Morandi Green),64,4,4.3,8499
+21,Infinix Hot 10 Play (Obsidian Black),64,4,4.3,8499
+22,Infinix Hot 10 Play (Aegean Blue),64,4,4.3,8499
+23,REDMI Note 9 (Aqua Green),64,4,4.4,10999
+24,REDMI 9 Power (Electric Green),64,4,4.3,10499
+25,MOTOROLA E7 Power (Tahiti Blue),64,4,4.1,8299
+26,GIONEE Max (Black),32,2,4.1,5499
+27,OPPO A33 (Moonlight Black),32,3,4.3,9990
+28,realme 8 5G (Supersonic Blue),64,4,4.3,13999
+29,POCO M2 Reloaded (Mostly Blue),64,4,4.4,9499
+30,POCO M3 (Power Black),128,6,4.3,11999
+31,realme C25 (Watery Blue),128,4,4.4,10999
+32,realme C25 (Watery Grey),128,4,4.4,10999
+33,REDMI 9 Prime (Mint Green),64,4,4.4,9999
+34,SAMSUNG Galaxy F12 (Sky Blue),128,4,4.2,11999
+35,OPPO A12 (Deep Blue),64,4,4.4,9999
+36,OPPO A12 (Deep Blue),32,3,4.4,7990
+37,OPPO A12 (Flowing Silver),64,4,4.4,8490
+38,OPPO A12 (Black),32,3,4.4,7990
+39,OPPO A12 (Flowing Silver),32,3,4.4,7990
+40,OPPO A12 (Flowing Silver),32,3,4.4,7990
+41,OPPO A12 (Blue),32,3,4.4,7990
+42,POCO X3 Pro (Steel Blue),128,6,4.5,18999
+43,OPPO A33 (Mint Cream),32,3,4.3,9990
+44,POCO C3 (Lime Green),32,3,4.3,7499
+45,realme Narzo 20 Pro (Black Ninja),64,6,4.3,14999
+46,REDMI 9i (Sea Blue),64,4,4.3,8299
+47,POCO M3 (Cool Blue),128,6,4.3,11999
+48,Infinix Smart HD 2021 (Topaz Blue),32,2,4.4,6499
+49,Infinix Smart HD 2021 (Obsidian Black),32,2,4.4,6499
+50,Infinix Smart HD 2021 (Quartz Green),32,2,4.4,6499
+51,REDMI Note 9 (Shadow Black),64,4,4.4,10999
+52,REDMI 9 Power (Blazing Blue),64,4,4.3,10399
+53,POCO C3 (Arctic Blue),64,4,4.3,8499
+54,POCO M3 (Yellow),128,6,4.3,11999
+55,realme C25 (Watery Grey),64,4,4.4,9999
+56,REDMI 9 Power (Mighty Black),64,4,4.3,10499
+57,realme X7 5G (Nebula),128,8,4.3,21999
+58,realme C12 (Power Silver),32,3,4.4,7999
+59,POCO M2 Reloaded (Greyish Black),64,4,4.4,9499
+60,POCO X3 (Shadow Gray),64,6,4.4,14999
+61,realme Narzo 20 Pro (Black Ninja),128,8,4.3,16999
+62,SAMSUNG Galaxy M12 (Black),64,4,4.3,11001
+63,realme Narzo 30 Pro 5G (Blade Silver),64,6,4.4,15999
+64,SAMSUNG Galaxy F12 (Sea Green),64,4,4.2,10999
+65,realme Narzo 30 Pro 5G (Sword Black),64,6,4.4,15999
+66,realme C12 (Power Blue),32,3,4.4,7999
+67,GIONEE Max Pro (Blue),32,3,3.9,6999
+68,POCO X3 Pro (Graphite Black),128,6,4.5,18999
+69,realme Narzo 20 (Glory Silver),64,4,4.3,10499
+70,POCO M3 Pro 5G (Power Black),128,6,4.4,15999
+71,REDMI Note 9 (Arctic White),64,4,4.4,10999
+72,realme X7 5G (Space Silver),128,8,4.3,21999
+73,Infinix Hot 10 (Moonlight Jade),128,6,4.3,10999
+74,SAMSUNG Galaxy M12 (Black),64,4,4.3,11001
+75,SAMSUNG Galaxy F12 (Sea Green),64,4,4.2,10999
+76,realme Narzo 30 Pro 5G (Blade Silver),64,6,4.4,15999
+77,realme Narzo 30 Pro 5G (Sword Black),64,6,4.4,15999
+78,realme C12 (Power Blue),32,3,4.4,7999
+79,GIONEE Max Pro (Blue),32,3,3.9,6999
+80,POCO X3 Pro (Graphite Black),128,6,4.5,18999
+81,POCO M3 Pro 5G (Power Black),128,6,4.4,15999
+82,REDMI Note 9 (Arctic White),64,4,4.4,10999
+83,Infinix Hot 10 (Moonlight Jade),128,6,4.3,10999
+84,REDMI 9 Power (Mighty Black),128,6,4.3,12999
+85,MOTOROLA G10 Power (Aurora Grey),64,4,4.1,9999
+86,POCO M3 Pro 5G (Power Black),64,4,4.5,13999
+87,realme 8 (Cyber Silver),128,8,4.4,16999
+88,realme 8 (Cyber Black),128,4,4.3,14999
+89,OPPO A53 (Moonlight Black),128,6,4.4,12990
+90,OPPO A53 (Electric Black),64,4,4.5,10990
+91,OPPO A53 (Moonlight Black),64,4,4.5,15990
+92,OPPO A53s 5G (Crystal Blue),128,8,4.3,16990
+93,realme C15 Qualcomm Edition (Power Blue),64,4,4.4,9999
+94,realme C15 Qualcomm Edition (Power Silver),64,4,4.4,9999
+95,realme Narzo 30 Pro 5G (Blade Silver),128,8,4.3,19999
+96,realme C25s (Watery Grey),64,4,4.4,9999
+97,REDMI 9 Prime (Matte Black),64,4,4.4,9999
+98,REDMI 9 Prime (Sunrise Flare),64,4,4.4,9999
+99,REDMI 9 Power (Fiery Red),64,4,4.3,10499
+100,MOTOROLA G30 (Dark Pearl),64,4,4.1,10999
+101,MOTOROLA E7 Power (Coral Red),64,4,4.1,8299
+102,Infinix Hot 10S (95° Black),64,6,4.3,10999
+103,POCO C3 (Lime Green),32,3,4.3,7499
+104,Infinix Hot 10S (95° Black),64,4,4.4,9999
+105,REDMI 9i (Nature Green),64,4,4.3,8299
+106,REDMI Note 9 (Pebble Grey),64,4,4.4,10999
+107,Infinix Hot 10S (Heart Of Ocean),64,4,4.4,9999
+108,REDMI Note 10 (Aqua Green),64,4,4.3,13869
+109,realme 8 Pro (Illuminating Yellow),128,8,4.3,19999
+110,Redmi 9 (Carbon Black),64,4,4.2,9167
+111,ViVO Y20G (Obsidian Black),64,4,4.3,12990
+112,realme X7 5G (Nebula),128,8,4.3,21999
+113,realme X7 5G (Nebula),128,6,4.3,19999
+114,MOTOROLA G40 Fusion (Dynamic Gray),128,6,4.3,16499
+115,realme X7 5G (Space Silver),128,6,4.3,19999
+116,Infinix Note 10 (7° Purple),128,6,4.4,11999
+117,realme Narzo 30 Pro 5G (Sword Black),128,8,4.3,19999
+118,Infinix Note 10 (Emerald Green),128,6,4.4,11999
+119,REDMI 9i (Sea Blue),128,4,4.3,9999
+120,MOTOROLA G60 (Dynamic Gray),128,6,4.2,17999
+121,Redmi 9 (Sky Blue),64,4,4.2,9199
+122,POCO X3 Pro (Graphite Black),128,8,4.4,20999
+123,ViVO Y20G (Obsidian Black),128,6,4.4,14990
+124,GIONEE F8 Neo (Red),32,2,3.9,5299
+125,GIONEE F8 Neo (Blue),32,2,3.9,5299
+126,GIONEE F8 Neo (Black),32,2,3.9,5499
+127,ViVO Y20G (Purist Blue),64,4,4.3,12990
+128,OPPO A53s 5G (Ink Black),128,8,4.3,16990
+129,POCO M3 Pro 5G (Cool Blue),64,4,4.5,13999
+130,realme C25s (Watery Blue),64,4,4.4,9999
+131,realme C25s (Watery Blue),128,4,4.4,10999
+132,realme C25s (Watery Grey),128,4,4.4,10999
+133,REDMI 9 Power (Blazing Blue),128,4,4.3,11999
+134,ViVO Y30 (Emerald Black),128,4,4.3,13990
+135,SAMSUNG Galaxy M11 (Black),64,4,4.3,10201
+136,REDMI 9 Power (Mighty Black),128,4,4.3,11999
+137,REDMI 9i (Nature Green),128,4,4.3,9299
+138,REDMI 9 Power (Electric Green),128,6,4.3,12999
+139,Itel A25 Pro (Gradation Green),32,2,4.1,4999
+140,Itel A25 Pro (Gradation Purple),32,2,4.1,4999
+141,Itel A25 Pro (Gradation Blue),32,2,4.1,4999
+142,realme X7 5G (Space Silver),128,8,4.3,21999
+143,ViVO Y51A (Titanium Sapphire),128,8,4.3,17990
+144,ViVO Y51A (Crystal Symphony),128,8,4.3,17990
+145,SAMSUNG Galaxy M31 (Space Black),128,8,4.3,18699
+146,SAMSUNG Galaxy M12 (Blue),64,4,4.3,11449
+147,realme 8 Pro (Infinite Blue),128,6,4.3,17999
+148,realme 8 Pro (Infinite Black),128,8,4.3,19999
+149,realme 8 Pro (Infinite Black),128,6,4.3,17999
+150,realme 8 Pro (Infinite Blue),128,8,4.3,19999
+151,realme 8 Pro (Illuminating Yellow),128,6,4.3,17999
+152,ViVO Y12s (Phantom Black),32,3,4.3,10490
+153,Infinix Hot 10S (7° Purple),64,4,4.4,9999
+154,Infinix Hot 10S (Morandi Green),64,4,4.4,9999
+155,ViVO Y20G (Purist Blue),128,6,4.4,14990
+156,ViVO Y11 (Agate Red),32,3,4.4,9490
+157,ViVO Y11 (Mineral Blue),32,3,4.4,9490
+158,POCO M2 (Pitch Black),64,6,4.3,10499
+159,POCO X3 (Shadow Gray),128,6,4.4,16999
+160,POCO C3 (Lime Green),64,4,4.3,8499
+161,Tecno Spark 6 Go (Aqua Blue),64,4,4.3,8699
+162,Tecno Spark 6 Go (Mystery White),64,4,4.3,8699
+163,POCO X3 (Shadow Gray),128,6,4.4,16999
+164,POCO C3 (Lime Green),64,4,4.3,8499
+165,Tecno Spark 6 Go (Aqua Blue),64,4,4.3,8699
+166,Tecno Spark 6 Go (Mystery White),64,4,4.3,8699
+167,REDMI 9 Power (Blazing Blue),128,6,4.3,12999
+168,SAMSUNG Galaxy F62 (Laser Blue),128,8,4.3,25999
+169,ViVO Y91i (Ocean Blue),32,2,4.3,7990
+170,ViVO Y31 (Racing Black),128,6,4.4,16490
+171,ViVO Y31 (Ocean Blue),128,6,4.4,16490
+172,Infinix Note 10 (95° Black),128,6,4.4,11999
+173,OPPO A15S (Rainbow Silver),64,4,4.4,11490
+174,Itel Vision1 (Gradation Green),32,3,4.1,6549
+175,Infinix Note 10 (Emerald Green),64,4,4.5,10999
+176,POCO X3 (Cobalt Blue),128,6,4.4,16999
+177,Tecno Spark Go 2020 (Ice jadeite),32,2,4.4,6999
+178,Tecno Spark Go 2020 (Mystery White),32,2,4.4,6999
+179,MOTOROLA E7 Plus (Misty Blue),64,4,4.2,9499
+180,realme C11 (Rich Grey),32,2,4.4,7499
+181,realme C11 (Rich Green),32,2,4.4,7499
+182,Infinix Hot 10S (Heart Of Ocean),64,6,4.3,10999
+183,Infinix Hot 10S (Morandi Green),64,6,4.3,10999
+184,SAMSUNG Galaxy F12 (Celestial Black),64,4,4.2,10999
+185,POCO X3 (Cobalt Blue),64,6,4.4,14999
+186,ViVO Y91i (Fusion Black),32,2,4.3,7990
+187,SAMSUNG Galaxy A31 (Prism Crush Blue),128,6,4.3,16999
+188,realme Narzo 20 (Victory Blue),128,4,4.3,11499
+189,Tecno Spark Go 2020 (Aqua Blue),32,2,4.4,6999
+190,SAMSUNG Galaxy A31 (Prism Crush Blue),128,6,4.3,16999
+191,SAMSUNG Galaxy F62 (Laser Grey),128,8,4.3,25999
+192,GIONEE Max Pro (Black),32,3,3.9,6999
+193,OPPO A31 (Fantasy White),128,6,4.3,12676
+194,OPPO A31 (Lake Green),64,4,4.3,11140
+195,Itel A48 (Gradation Green),32,2,4,5899
+196,Panasonic ELUGA I6 (Black),16,2,3.7,5001
+197,SAMSUNG Galaxy F02s (Diamond Blue),64,4,4.2,9999
+198,OPPO F17 Pro (Metallic White),128,8,4.4,19990
+199,OPPO F17 Pro (Magic Blue),128,8,4.4,19990
+200,OPPO F17 Pro (Matte Black),128,8,4.4,19990
+201,SAMSUNG Galaxy F62 (Laser Green),128,8,4.3,25999
+202,Redmi 9A (Nature Green),32,3,4.3,7920
+203,Redmi 9A (SeaBlue),32,2,4.3,7287
+204,Redmi 9A (Nature Green),32,2,4.3,7329
+205,Redmi 9A (Midnight Black),32,2,4.3,7250
+206,SAMSUNG Galaxy F02s (Diamond Blue),32,3,4.2,8999
+207,POCO C3 (Matte Black),32,3,4.3,7499
+208,SAMSUNG Galaxy M31 (Ocean Blue),64,6,4.3,16795
+209,Itel A48 (Gradation Black),32,2,4,5899
+210,OPPO A15s (Dynamic Black),64,4,4.4,11490
+211,Google Pixel 4a (Just Black),128,6,4.6,31999
+212,realme 7 Pro (Mirror Silver),128,6,4.4,19999
+213,realme 7 Pro (Mirror Blue),128,6,4.4,19999
+214,realme 7 Pro (Mirror Silver),128,8,4.4,21999
+215,SAMSUNG Galaxy A21s (Blue),64,4,4.2,12999
+216,REDMI 9 Power (Electric Green),128,4,4.3,11999
+217,POCO X3 Pro (Steel Blue),128,8,4.4,20999
+218,Panasonic Eluga I7 (Black),16,2,3.7,5299
+219,POCO M2 Pro (Two Shades of Black),64,4,4.4,12999
+220,SAMSUNG Galaxy M11 (Metallic Blue),64,4,4.3,9900
+221,OPPO F19 (Space Silver),128,6,4.2,17990
+222,Redmi 8A Dual (Midnight Grey),32,3,4.2,7999
+223,REDMI Note 9 (Arctic White),128,4,4.4,12999
+224,realme C15 (Power Blue),32,3,4.3,8999
+225,realme 7 Pro (Sun Kissed Leather),128,6,4.4,19999
+226,realme 7 Pro (Sun Kissed Leather),128,8,4.4,21999
+227,OPPO A54 (Moonlight Gold),64,4,4.3,13490
+228,OPPO A54 (Starry Blue),128,4,4.3,14490
+229,OPPO A54 (Crystal Black),128,4,4.3,14490
+230,OPPO A31 (Mystery Black),128,6,4.3,12640
+231,OPPO A54 (Moonlight Gold),128,4,4.3,14490
+232,POCO M2 Pro (Green and Greener),64,6,4.4,13999
+233,Tecno Spark 6 Go (Ice Jadeite),64,4,4.3,8990
+234,SAMSUNG Galaxy M02 (Blue),32,2,4.1,7899
+235,Redmi 9A (Midnight Black),32,3,4.3,7977
+236,ViVO V2033 / V2069 (Glacier Blue),32,3,4.3,10490
+237,Micromax IN 1 (Purple),64,4,4.3,9999
+238,Micromax IN 1 (Purple),128,6,4.3,11499
+239,Micromax IN 1 (Blue),128,6,4.3,11499
+240,MOTOROLA G9 Power (Electric Violet),64,4,4.1,11999
+241,POCO M2 Pro (Two Shades of Black),64,6,4.4,13999
+242,SAMSUNG Galaxy M21 (Raven Black),64,4,4.3,13975
+243,REDMI 9 Power (Fiery Red),128,6,4.3,12999
+244,realme C15 (Power Silver),32,3,4.3,8999
+245,OPPO A54 (Moonlight Gold),128,6,4.3,15990
+246,POCO X3 (Shadow Gray),128,8,4.3,18999
+247,Panasonic Eluga I8 (Charcoal Black),32,3,3.9,6999
+248,Nokia C3 (Nordic Blue),16,2,3.9,6749
+249,MOTOROLA G60 (Frosted Champagne),128,6,4.2,17999
+250,Redmi 9 (Sporty Orange),64,4,4.2,9049
+251,MOTOROLA G40 Fusion (Frosted Champagne),128,6,4.3,16499
+252,Itel VISION1 (GRADATION GREEN),32,2,4.2,6992
+253,LAVA Z1 (Coral Red),16,2,3.9,5199
+254,Tecno Camon 15 (SHOAL GOLD),64,4,4.2,9999
+255,SAMSUNG M31 Prime (IceBerg Blue),128,6,4.4,16990
+256,SAMSUNG M31s (Mirage Blue),128,8,4.2,21125
+257,SAMSUNG Galaxy M51 (Electric Blue),128,8,4.4,25498
+258,SAMSUNG Galaxy F12 (Celestial Black),128,4,4.2,11999
+259,GIONEE F11 (Blue),32,3,3.9,6499
+260,ViVO V21 5G (Dusk Blue),256,8,4.3,32990
+261,OPPO A54 (Crystal Black),64,4,4.3,13490
+262,OPPO A54 (Starry Blue),64,4,4.3,13490
+263,REDMI Note 10 (Shadow Black),64,4,4.3,13388
+264,SAMSUNG Galaxy M11 (Violet),64,4,4.3,9868
+265,REDMI Note 10 (Aqua Green),128,6,4.3,16499
+266,REDMI Note 10S (Deep Sea Blue),128,6,4.2,17169
+267,REDMI Note 9 (Shadow Black),128,4,4.4,14895
+268,MOTOROLA G40 Fusion (Frosted Champagne),64,4,4.3,14499
+269,realme 3i (Diamond Blue),64,4,4.4,10499
+270,Tecno POVA (Magic Blue),64,4,4.3,10499
+271,REDMI Note 10 Pro Max (Dark Night),128,6,4.3,21008
+272,SAMSUNG Galaxy A21s (Black),128,6,4.2,17499
+273,ViVO V21 5G (Dusk Blue),128,8,4.3,29990
+274,ViVO V21 5G (Arctic White),128,8,4.3,29990
+275,ViVO V21 5G (Sunset Dazzle),128,8,4.3,29990
+276,ViVO V21 5G (Sunset Dazzle),256,8,4.3,32990
+277,REDMI Note 10 Pro (Dark Night),64,6,4.3,17989
+278,OPPO F19 Pro (Crystal Silver),256,8,4.3,23490
+279,realme X7 Max (Asteroid Black),128,8,4.4,26999
+280,realme X7 Max (Asteroid Black),256,12,4.4,29999
+281,LG W31 (midnight blue),64,4,4.1,8290
+282,MOTOROLA G40 Fusion (Dynamic Gray),64,4,4.3,14499
+283,SAMSUNG Galaxy A31 (Prism Crush White),128,6,4.3,16999
+284,Redmi 9 (Sky Blue),128,4,4.2,10935
+285,OPPO A15 (Dynamic Black),32,3,4.3,9990
+286,SAMSUNG Galaxy A32 (Awesome Black),128,6,4.2,20419
+287,SAMSUNG GALAXY M31S (Mirage Black),128,8,4.4,19997
+288,SAMSUNG M31 Prime (Space Black),128,6,4.4,16990
+289,POCO X3 (Cobalt Blue),128,8,4.3,18999
+290,SAMSUNG Galaxy A32 (Awesome Black),128,6,4.2,20419
+291,Infinix Zero 8i (Silver Diamond),128,8,4.2,14999
+292,SAMSUNG M31 Prime (Space Black),128,6,4.4,16990
+293,POCO X3 (Cobalt Blue),128,8,4.3,18999
+294,SAMSUNG Galaxy M31 (Space Black),64,6,4.3,16199
+295,LAVA Z61 Pro (Champagne Gold),16,2,4,5777
+296,SAMSUNG Galaxy M12 (White),128,6,4.2,14999
+297,SAMSUNG Galaxy M12 (Blue),128,6,4.2,14999
+298,LAVA BEU (ROSE PINK),32,2,3.8,6388
+299,POCO C3 (Matte Black),64,4,4.3,8499
+300,GIONEE F11 (Black),32,3,3.9,6599
+301,LAVA Z6 (Aqua Blue),64,6,3.9,10299
+302,ViVO Y73 (Roman Black),128,8,4.5,20990
+303,ViVO Y73 (Diamond Flare),128,8,4.5,20990
+304,ViVO Z1Pro (Sonic Black),128,6,4.5,17990
+305,realme 6 (Comet White),64,6,4.4,14999
+306,POCO M2 Pro (Two Shades of Black),128,6,4.4,15999
+307,LAVA Z66 (Marine Blue),32,3,4,7227
+308,SAMSUNG Galaxy M02 (Black),32,3,4,8276
+309,POCO M2 Pro (Green and Greener),128,6,4.4,15999
+310,LAVA Z66 (Marine Blue),32,3,4,7227
+311,POCO M2 Pro (Green and Greener),128,6,4.4,15999
+312,SAMSUNG M02s (Red),32,3,4.1,9087
+313,Redmi 8 (Onyx Black),64,4,4.4,10999
+314,ViVO Z1Pro (Sonic Black),128,6,4.5,17990
+315,OPPO F19 Pro+ 5G (Space Silver),128,8,4.3,25990
+316,LAVA Z61 Pro (Lavender Blue),16,2,4,5777
+317,ViVO Y20i (Nebula Blue),64,3,4.4,11490
+318,SAMSUNG Galaxy M31s (Mirage Blue),128,6,4.2,19035
+319,REDMI Note 10 Pro (Dark Night),128,8,4.4,20863
+320,Redmi 8 (Emerald Green),64,4,4.4,10795
+321,realme 3i (Diamond Black),32,3,4.4,8499
+322,Itel Vision1 (Gradation Blue),32,3,4.1,6549
+323,realme X7 Max (Mercury Silver),128,8,4.4,26999
+324,realme X7 Max (Mercury Silver),256,12,4.4,29999
+325,realme X7 Max (Milky Way),128,8,4.4,26999
+326,realme X7 Max (Milky Way),256,12,4.4,29999
+327,REDMI Note 10S (Shadow Black),64,6,4.2,15940
+328,SAMSUNG Galaxy A12 (Blue),64,4,4.2,12999
+329,Mi 10i (Midnight Black),128,8,4.3,24698
+330,SAMSUNG Galaxy M31 (Iceberg blue),128,6,4.3,16290
+331,SAMSUNG Galaxy A51 (Prism Crush Blue),128,8,4.3,22499
+332,realme Narzo 20 Pro (Black Ninja),128,8,4.3,16999
+333,realme Narzo 20 Pro (Black Ninja),64,6,4.3,14999
+334,OPPO F19 Pro (Fluid Black),128,8,4.3,23990
+335,OPPO F19 Pro (Crystal Silver),128,8,4.3,21490
+336,SAMSUNG Galaxy M01 (Blue),32,3,4.2,8383
+337,OPPO A15 (Mystery Blue),32,3,4.3,9990
+338,SAMSUNG Galaxy A71 (Haze Crush Silver),128,8,4.4,27499
+339,Mi 10i (Midnight Black),128,6,4.4,22399
+340,SAMSUNG Galaxy M02 (Gray),32,3,4,8207
+341,SAMSUNG Galaxy M42 5G (Prism Dot Gray),128,6,4.4,22990
+342,OPPO A15 (Mystery Blue),32,2,4.1,9499
+343,SAMSUNG M02s (Black),64,4,4.2,10186
+344,REDMI Note 10 (Frost White),128,6,4.3,16199
+345,SAMSUNG Galaxy A51 (Prism Crush Black),128,8,4.3,22499
+346,SAMSUNG Galaxy M02 (Black),32,2,4.1,7899
+347,POCO M2 Pro (Out of the Blue),64,6,4.4,13999
+348,SAMSUNG Galaxy M02 (Blue),32,3,4,8234
+349,SAMSUNG M02s (Blue),64,4,4.2,10199
+350,POCO M2 Pro (Out of the Blue),128,6,4.4,15999
+351,SAMSUNG Galaxy A12 (Blue),128,4,4.2,13999
+352,REDMI 9 Power (Fiery Red),128,4,4.3,11999
+353,SAMSUNG Galaxy F02s (Diamond Black),64,4,4.2,9999
+354,Nokia 2.4 (Charcoal Grey),64,3,4,9999
+355,REDMI 9i (Midnight Black),128,4,4.3,9299
+356,realme C3 (Frozen Blue),32,3,4.4,8999
